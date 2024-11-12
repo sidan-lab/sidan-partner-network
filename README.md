@@ -2,7 +2,7 @@
 
 ## To add yourself to our partner network, please submit a pull request with the following information:
 
-```json
+```typescript
 {
   partners: {
     name: string /* Name of the partner */;
@@ -13,7 +13,7 @@
   coordinates: [number, number] /* [longitude, latitude] */;
   position?:
     | "up"
-    | "down" /* For whether the text shows above the marker or below */;
+    | "down" /* For whether the text shows above the marker or below, default up */;
   link?: string /* Link to social media */;
   city?: string;
 }
