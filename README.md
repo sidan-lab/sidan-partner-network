@@ -13,7 +13,10 @@
   coordinates: [number, number] /* [longitude, latitude] */;
   position?:
     | "up"
-    | "down" /* For whether the text shows above the marker or below, default up */;
+    | "down" 
+    | 'left'
+    | 'right'
+    /* For whether the text shows above the marker or below, default up */;
   link?: string /* Link to social media */;
   city?: string;
 }
