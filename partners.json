@@ -8,10 +8,7 @@
           "photo": "https://raw.githubusercontent.com/sidan-lab/sidan-partner-network/main/assets/jingles.jpeg"
         }
       ],
-      "coordinates": [
-        103.851959,
-        1.29027
-      ],
+      "coordinates": [103.851959, 1.29027],
       "link": "https://x.com/jinglescode",
       "country": "Singapore"
     },
@@ -23,10 +20,7 @@
           "photo": "https://raw.githubusercontent.com/sidan-lab/sidan-partner-network/main/assets/leon.jpeg"
         }
       ],
-      "coordinates": [
-        -79.347015,
-        43.65107
-      ],
+      "coordinates": [-79.347015, 43.65107],
       "position": "up",
       "country": "Canada",
       "city": "Toronto",
@@ -47,23 +41,15 @@
         {
           "name": "Neal Lam",
           "title": "Co-Founder - SIDAN",
-          "photo":  "https://raw.githubusercontent.com/sidan-lab/sidan-partner-network/main/assets/neal.jpeg"
+          "photo": "https://raw.githubusercontent.com/sidan-lab/sidan-partner-network/main/assets/neal.jpeg"
         },
         {
           "name": "Jackal Leung",
           "title": "Co-Founder - SIDAN",
           "photo": "https://raw.githubusercontent.com/sidan-lab/sidan-partner-network/main/assets/jackal.jpeg"
-        },
-        {
-          "name": "Kinson Cheung",
-          "title": "Co-Founder - SIDAN",
-          "photo": "https://raw.githubusercontent.com/sidan-lab/sidan-partner-network/main/assets/kinson.jpg"
         }
       ],
-      "coordinates": [
-        114.177216,
-        22.302711
-      ],
+      "coordinates": [114.177216, 22.302711],
       "position": "left",
       "country": "Hong Kong",
       "link": "https://x.com/sidan_lab"
